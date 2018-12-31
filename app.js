@@ -34,7 +34,8 @@ var server = http.createServer((req, res) => {
 });
 
 server.listen(3000, '127.0.0.1');
-console.log('hello, now listening to 3000');
+// console.log('hello, now listening to 3000');
+console.log('test');
 
 
 
