@@ -1,4 +1,0 @@
-var counter= function(arr)
-{
-
-}
