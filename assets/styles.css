@@ -1,0 +1,35 @@
+h1 {
+  color: white;
+  font-style: normal;
+  font-family: verdana;
+  text-align: center;
+  top: 230px;
+  position: relative;
+  margin: auto;
+}
+
+h2 {
+  color: white;
+  font-style: normal;
+  font-family: verdana;
+  text-align: center;
+  top: 230px;
+  position: relative;
+  margin: auto;
+}
+
+p {
+  color: white;
+  font-style: normal;
+  font-family: verdana;
+  text-align: center;
+  font-size: 25px;
+}
+
+#contact-form {
+  text-align: center;
+}
+
+body {
+  background-color: skyblue;
+}
